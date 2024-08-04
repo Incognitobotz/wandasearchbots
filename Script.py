@@ -1,6 +1,6 @@
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @Royal_X_RoxStar
+# Ask Doubt on telegram @BarkesyaXboy
 
 
 class script(object):
@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Royal_X_RoxStar'>Royal Roxstar</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/BarkesyaXboy'>BarkesyaXboy</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -48,7 +48,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @Royal_X_RoxStar
+# Ask Doubt on telegram @BarkesyaXboy
 
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
@@ -57,7 +57,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Royal_X_RoxStar)</code>
+<code>[Button Text](buttonurl:https://t.me/BarkesyaXboy)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -85,14 +85,14 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @Royal_X_RoxStar
+# Ask Doubt on telegram @BarkesyaXboy
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Royal_X_RoxStar>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/BarkesyaXboy>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/i_popcorn_movie_update>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/OTTFilmUpdates>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -470,11 +470,13 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த I_PopCornBot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ நீங்கள் எந்த குறுகிய இணையதளத்தையும் பயன்படுத்தவில்லை என்றால் முதலில் https://zipshort.net/ref/jaypalbarkesya இல் கணக்கை உருவாக்கவும்
+
+ Exp: /shortlink zipshort.net API token
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -497,11 +499,13 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this I_PopCornBot bot to your group
+ Step 1: Administer this bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ Step 3: If you don't Using any shortner website then make account first on https://zipshort.net/ref/jaypalbarkesya
+
+ Exp: /shortlink zipshort.net API token
 
  Add a video
 
@@ -524,11 +528,11 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ I_PopCornBot బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ గడువు: /shortlink zipshort.net API token
 
  వీడియోను జోడించండి
 
@@ -555,7 +559,9 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ चरण 3: यदि आप किसी शॉर्टनर वेबसाइट का उपयोग नहीं कर रहे हैं तो पहले https://zipshort.net/ref/jaypalbarkesya पर अकाउंट बनाएं
+
+ एक्सप: /शॉर्टलिंक zipshort.net API token
 
  एक वीडियो जोड़ें
 
@@ -582,7 +588,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink zipshort.net API token
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -605,11 +611,11 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس I_PopCornBot بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ Exp: /shortlink zipshort.net API token
 
  ایک ویڈیو شامل کریں۔
 
@@ -632,11 +638,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ I_PopCornBot બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink zipshort.net API token
 
  વિડિઓ ઉમેરો
 
@@ -662,7 +668,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink zipshort.net API token
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -684,11 +690,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই I_PopCornBot বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink zxlink.in/ref/Manish 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink zipshort.net API token
 
  একটি ভিডিও যোগ করুন
 
@@ -702,13 +708,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Royal_X_RoxStar'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/BarkesyaXboy'>VJ</a>
 
--Dev 2 <a href='https://t.me/i_popcorn_movie_update'>VJ</a>
+-Dev 2 <a href='https://t.me/OTTFilmUpdates'>VJ</a>
 
--Dev 3 <a href='https://t.me/You_Want_To_Know_Me</a>
+-Dev 3 <a href='https://t.me/incognito_developer'</a>
 
-- Dev 4 <a href='https://t.me/PopCorn_Movie_Group'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/jpmoviez'>TEAM VJ</a>
 """
 
     RENAME_TXT = """
