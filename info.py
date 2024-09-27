@@ -66,7 +66,7 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'BarkesyaXboy') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/jpmoviez')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+WnJamUqcp_UwNDM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/jp_movies_update')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/request_group_download')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'OTTFilmUpdates') # Support Chat Link Without https:// or @
@@ -102,8 +102,8 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/i_popcorn_movie_u
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'zipshort.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '854321cbc0949ad27c00b24e9dd7e32fdeac03a3')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tryshort.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd510677897ede6d0900c937342853fe4c1aabdda')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
