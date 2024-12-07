@@ -69,7 +69,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'BarkesyaXboy') # owner username 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+WnJamUqcp_UwNDM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/jp_movies_update')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/request_group_download')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'OTTFilmUpdates') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'JpOfficialSupport') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -102,8 +102,8 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/i_popcorn_movie_u
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tryshort.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'd510677897ede6d0900c937342853fe4c1aabdda')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'yamlinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '798f23f33cddefaa540f3c328746d650c1c3c75d')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
