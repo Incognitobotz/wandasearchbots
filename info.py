@@ -67,7 +67,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'BarkesyaXboy') # owner username 
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+WnJamUqcp_UwNDM1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/jp_movies_update')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/JpMoviesUpdates')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/request_group_download')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'JpOfficialSupport') # Support Chat Link Without https:// or @
 
