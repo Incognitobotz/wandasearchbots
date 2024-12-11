@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://telegra.ph/file/6b7b9ad68790aa63df872.jpg https://telegra.ph/file/83626ff7c0b1404cc3385.jpg https://telegra.ph/file/44d058711183a8bc395bf.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/161cf6730dfe55aa398ca.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/request_group_download")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/JpMovies_Official/104")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -68,7 +68,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'BarkesyaXboy') # owner username 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+WnJamUqcp_UwNDM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/JpMoviesUpdates')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/request_group_download')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/JpMovies_Official/104')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'JpOfficialSupport') # Support Chat Link Without https:// or @
 
 # True Or False
